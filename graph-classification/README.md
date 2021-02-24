@@ -74,7 +74,7 @@ GNN_viz(3,old_adj)
 ```
 
 
-![figure_0.eps](README_images/figure_0.eps)
+![figure_0.eps](README_images/figure_0.jpg)
 
   
 # Designing the Network
@@ -154,7 +154,7 @@ plot(lgraph)
 ```
 
 
-![figure_2.eps](README_images/figure_2.eps)
+![figure_2.eps](README_images/figure_2.jpg)
 
   
 # **Network Training**
@@ -259,7 +259,7 @@ test_len = 201
 ```
 
 
-![figure_3.eps](README_images/figure_3.eps)
+![figure_3.eps](README_images/figure_3.jpg)
 
 
 ```text:Output
